@@ -2,3 +2,5 @@ resolution ryan 2022
 - Be more strongers OOP PHP and Dart
 - Every week must create exercise code using backend Laravel 8 and Flutter for mobile apps
 - 2022 must become more strongers
+- Stack programmer stay in Laravel 8 and Flutter
+- if wanna change language, must done laravel and flutter
